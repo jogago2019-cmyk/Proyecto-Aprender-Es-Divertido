@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Directorio de almacenamiento externo -->
+    <external-path name="external_files" path="." />
+    
+    <!-- Directorio de almacenamiento interno de la app -->
+    <files-path name="app_files" path="." />
+    
+    <!-- Directorio de caché -->
+    <cache-path name="cache_files" path="." />
+    
+    <!-- Directorio específico para ejercicios -->
+    <external-files-path name="ejercicios" path="CrearEjercicio/" />
+    
+    <!-- Directorio de documentos -->
+    <external-media-path name="external_media" path="." />
+</paths>
